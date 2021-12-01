@@ -3,6 +3,11 @@
 	--bg2:#3498db;
 	--bg3:#D7E1EC;
 }
+html{
+	background: url('https://hanoispiritofplace.com/wp-content/uploads/2017/06/hinh-nen-tom-and-jerry-4.jpg');
+	background-position: 10%;
+	background-size:75%;
+}
 *{
 	margin: 0;
 	padding: 0;
